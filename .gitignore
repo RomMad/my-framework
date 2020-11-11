@@ -1,0 +1,14 @@
+###> symfony/framework-bundle ###
+/.env
+/.env.local
+/backups/
+/var/
+/vendor/
+/web/
+###< symfony/framework-bundle ###
+
+###> symfony/phpunit-bridge ###
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
